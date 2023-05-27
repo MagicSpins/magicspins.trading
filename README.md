@@ -1,2 +1,2 @@
-# magicspins.ws
-Website magicspins.ws on Blazor client mode
+# magicspins.trading
+Website magicspins.trading on Blazor client mode
